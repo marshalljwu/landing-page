@@ -154,3 +154,47 @@ img {
     font-weight: bold;
     padding: 12px;
 }
+
+/*Fourth Body stuff*/
+.fourthBody {
+    background-color: #3882F6;
+    border-radius: 8px;
+    margin: 5% 15%;
+    color: #F9FAF8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.actionCall {
+    margin: 5% 10%;
+}
+.actionHeader {
+    font-size: 24px;
+}
+
+.actionText {
+    font-size: 18px;
+}
+
+.signButton {
+    background-color: #3882F6;
+    padding: 8px 16px;
+    border: 2px solid #F9FAF8;
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 8px;
+    color: #F9FAF8;
+    margin-right: 10%;
+    display: flex;
+    flex-shrink: 0;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 2% 4%;
+    background: #1F2937;
+    color: #F9FAF8;
+    font-size: 18px;
+}
