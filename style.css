@@ -83,6 +83,9 @@ a {
     justify-content: center;
     max-width: 50%;
 }
+.imgContainer img {
+    max-width: 100%;
+}
 
 /* Second body stuff */
 .secondBody {
